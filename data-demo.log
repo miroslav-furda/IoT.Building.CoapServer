@@ -1,0 +1,9 @@
+2017-09-11 11:39:03.327  INFO 28825 --- [main] c.c.d.c.CoapServerApplicationTests       : Starting CoapServerApplicationTests on Peters-MacBook-Pro.local with PID 28825 (started by peterszatmary in /Users/peterszatmary/Documents/codexa/coap-server)
+2017-09-11 11:39:03.329  INFO 28825 --- [main] c.c.d.c.CoapServerApplicationTests       : No active profile set, falling back to default profiles: default
+2017-09-11 11:39:03.364  INFO 28825 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@77f80c04: startup date [Mon Sep 11 11:39:03 CEST 2017]; root of context hierarchy
+2017-09-11 11:39:03.929  INFO 28825 --- [main] o.e.c.core.network.config.NetworkConfig  : Create standard properties with file Californium.properties
+2017-09-11 11:39:03.941  INFO 28825 --- [main] org.eclipse.californium.core.CoapServer  : Starting server
+2017-09-11 11:39:03.941  INFO 28825 --- [main] org.eclipse.californium.core.CoapServer  : No endpoints have been defined for server, setting up default endpoint at port 5683
+2017-09-11 11:39:03.960  INFO 28825 --- [main] o.e.c.core.network.CoAPEndpoint          : Starting Endpoint bound to 0.0.0.0/0.0.0.0:5683
+2017-09-11 11:39:03.975  INFO 28825 --- [main] c.c.d.c.CoapServerApplicationTests       : Started CoapServerApplicationTests in 11.069 seconds (JVM running for 12.576)
+2017-09-11 11:39:04.028  INFO 28825 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@77f80c04: startup date [Mon Sep 11 11:39:03 CEST 2017]; root of context hierarchy
